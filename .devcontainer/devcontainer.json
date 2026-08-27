@@ -5,9 +5,6 @@
 
   "customizations": {
     "vscode": {
-      "settings": {
-        "github.copilot.editor.enableAutoCompletions": false
-      },
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylint"
