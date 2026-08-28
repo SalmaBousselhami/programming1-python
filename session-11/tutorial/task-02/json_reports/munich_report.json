@@ -1,0 +1,28 @@
+{
+  "person": "Dr. Dietrich Bonhoeffer",
+  "destination": "Munich",
+  "reason": "Ecumenical discussions with German church leaders",
+  "stated_total": 63.7,
+  "items": [
+    {
+      "category": "train",
+      "amount": 35.5,
+      "description": "Berlin to Munich"
+    },
+    {
+      "category": "hotel",
+      "amount": 12.0,
+      "description": "Hotel Bayerischer Hof"
+    },
+    {
+      "category": "taxi",
+      "amount": 0.0,
+      "description": "Station to Hotel"
+    },
+    {
+      "category": "misc",
+      "amount": 8.0,
+      "description": ""
+    }
+  ]
+}

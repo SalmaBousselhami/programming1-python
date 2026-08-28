@@ -1,0 +1,5 @@
+TOTAL,345.50,Ecumenical conference and resistance coordination
+flight,250.00,Berlin to Stockholm
+hotel,60.00,Grand Hotel
+courier,20.00,Secret message delivery
+misc,15.50,Emergency supplies

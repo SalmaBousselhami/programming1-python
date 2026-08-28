@@ -13,7 +13,7 @@ try:
     
     for line in lines[1:]:  # Skip header
         parts = line.split(',')
-        amount = float(parts[-1])
+        amount = float(parts[-1]) # Here is the bug!
         total += amount
     
     print(f"Report processed successfully!")
@@ -23,6 +23,7 @@ except FileNotFoundError:
     print(f"Error: Report file not found at '{report_path}'")
 except ValueError:
     print("Error: Invalid data format in the expense report.")
+    # x = 5/0 # Here we case a new Exception
 except:
     print("An unexpected error occurred during processing.")
 finally:

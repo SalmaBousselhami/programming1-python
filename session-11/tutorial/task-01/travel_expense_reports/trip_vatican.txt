@@ -1,0 +1,6 @@
+TOTAL,140.00,Vatican diplomatic mission and papal audience
+train,120.00,Berlin to Rome
+hotel,,Vatican Guest House
+food,,Lunch in Train
+corrupted_line_###_ERROR
+food,15.00,Dinner with Papal Nuncio

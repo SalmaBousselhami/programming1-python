@@ -1,0 +1,5 @@
+TOTAL,147.70,Swiss church consultation and ecumenical planning
+train,85.00,Berlin to Zurich
+hotel,45.20,Hotel Baur au Lac
+dinner,12.50,Meeting with Bishop Bell
+taxi,7.00,

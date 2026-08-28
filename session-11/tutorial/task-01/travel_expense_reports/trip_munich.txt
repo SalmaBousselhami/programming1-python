@@ -1,0 +1,6 @@
+TOTAL,63.70,Ecumenical discussions with German church leaders
+train,35.50,Berlin to Munich
+hotel,12.00,Hotel Bayerischer Hof
+taxi,,Station to Hotel
+food,5.20,Dinner with Hans von Dohnanyi
+misc,8.00,
